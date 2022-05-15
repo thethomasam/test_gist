@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.AddButton{
+  background: transparent;
+    border: none;
+}
+.typeToggle{
+  background: none;
+  border: none;
+}
+
+.codeBox{
+  background-color: rgba(242, 242, 242, 1);
+  font-size: 22px;
+}
+
+<script src="https://gist.github.com/thethomasam/2680370d00f52384495f3d230ec17f80.js"></script>
